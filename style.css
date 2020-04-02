@@ -1,0 +1,22 @@
+.fila {
+    margin: 0 0 -4px 0px;
+}
+
+.pieza {
+    /* width: 150px;
+    height: 150px; */
+    overflow: hidden;
+    display: inline-block;
+    margin: 0 0 0 -4px;
+}
+
+.pieza img {
+    width: 600px;
+    height: auto;
+    margin: 0px 0px 0px 0px;
+}
+
+input {
+    display: block;
+    margin: 15px auto;
+}
